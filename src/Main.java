@@ -16,6 +16,7 @@ public class Main {
     7. Share the project on GitHub
     8. Add a new method to your code that gives the user the option to find and alter a made trip.
     9. Push your changes to GitHub.
+    
     */
 
     private static ArrayList<Trip> trips = new ArrayList<>();
